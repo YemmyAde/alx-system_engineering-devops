@@ -1,2 +1,2 @@
 #!/bin/bash
-echo -e "total 20\n-rwxr-xr-x 1 996 992 19 0-current_working_directory\n-rwxr-xr-x 1 996 992 101 1-listit\n-rwxr-xr-x 1 996 992 20 2-bring_me_home\n-rwxr-xr-x 1 996 992 22 3-listfiles\n-rw-r--r-- 1 996 992 244 README.md"
+ls l
